@@ -17,7 +17,7 @@ def plot_gauge(prob) -> go.Figure:
     fig = go.Figure(go.Indicator(
         mode="gauge+number",
         value=prob,
-        title={'text': "Churn Probability (%)"},
+        title={'text': "Probabilidade de Evasão (%)"}
         gauge={
             'axis': {'range': [0, 100], 'ticksuffix': '%'},
             'bar': {'color': ("#FF7131" if prob < 50 else "#4c1854")},
