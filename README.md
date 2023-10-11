@@ -1,1 +1,3 @@
-# dropout_prediction
+# Student Dropout Prediction
+
+Respository under construction... :)
