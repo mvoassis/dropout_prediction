@@ -13,7 +13,7 @@ The development of an approach that leverages machine learning to analyze differ
 * EDA - Notebook
 * [Classifier - Notebook](notebooks/Student_dropout_predictor.ipynb)
 * [Streamlit Web App main file](https://github.com/mvoassis/dropout_prediction/blob/main/src/app/main.py)
-* Anonymized data set 
+* [Anonymized data set](dataset/anonymized_dataset.csv) 
 
 ### Abstract
 
