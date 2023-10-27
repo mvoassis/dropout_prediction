@@ -3,3 +3,5 @@ plotly==5.17.0
 scikit-learn==1.2.2
 Pillow~=9.5.0
 streamlit~=1.26.0
+xgboost==2.0.1
+category-encoders==2.6.2
